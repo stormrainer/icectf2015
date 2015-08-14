@@ -4,10 +4,10 @@
 # Name:        stats.py
 # Purpose:     icec 2015 challenge
 #
-# Author:      cp352m
+# Author:      StormRainer
 #
 # Created:     12/08/2015
-# Copyright:   (c) cp352m 2015
+# Copyright:   (c) StormRainer 2015
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 import socket
